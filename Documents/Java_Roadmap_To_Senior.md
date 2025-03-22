@@ -17,11 +17,11 @@
 
 **📌 Giai đoạn 1: Nắm vững Java Core và Concurrency**
 
-- [x]  **Java Threads** 
-- [x]  **Java Concurrency (Virtual Machine & AQS)**
-- [x]  **Thread Pool, ExecutorService, CompletableFuture**
-- [x]  **Synchronized, Locks, Atomic Variables, ForkJoinPool**
-- [x]  **JVM (Heap, Stack, GC, JIT Compiler, ClassLoader, Profiling)**
+- [ ]  **Java Threads** 
+- [ ]  **Java Concurrency (Virtual Machine & AQS)**
+- [ ]  **Thread Pool, ExecutorService, CompletableFuture**
+- [ ]  **Synchronized, Locks, Atomic Variables, ForkJoinPool**
+- [ ]  **JVM (Heap, Stack, GC, JIT Compiler, ClassLoader, Profiling)**
 
 **📌 Giai đoạn 2: Master Spring Framework & Microservices**
 

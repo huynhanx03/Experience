@@ -1,5 +1,5 @@
 Hibernate
-architech - các mô hình ứng dụng
+architech - các mô hình ứng dụng  
 OOP
 Java
 xử lí bất đồng bộ

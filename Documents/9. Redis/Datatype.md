@@ -6,6 +6,11 @@ Redis supports 5 types of data types.
 ## Strings
 
 Chuỗi Redis là một chuỗi byte. Các chuỗi trong Redis là chuỗi nhị phân an toàn, nghĩa là chúng có độ dài đã biết và không được xác định bởi bất kỳ ký tự kết thúc đặc biệt nào. Do đó, bạn có thể lưu trữ mọi thứ lên tới 512 megabyte trong một chuỗi.
+
+SDS (String dynamic symbol) có 3 loại:
+1. embstring (<= 44 bytes - 44 ký tự)
+2. raw (> 44 bytes)
+3. int (integer)
 ##### Example
 
 ```

@@ -1,0 +1,1 @@
+Không phải là message queue đúng theo nghĩa truyền thống.
